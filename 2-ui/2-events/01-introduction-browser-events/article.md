@@ -150,7 +150,7 @@ elem.onclick = sayThanks;
 
 如果你刚开始写事件 —— 请注意一些细微之处。
 
-**函数应该被以 `sayThanks` 的形式进行非配，而不是 `sayThanks()`**。
+**函数应该被以 `sayThanks` 的形式进行分配，而不是 `sayThanks()`**。
 
 ```js
 // 正确
